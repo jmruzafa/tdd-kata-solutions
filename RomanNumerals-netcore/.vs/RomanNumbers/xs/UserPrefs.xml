@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{71AE867E-E0BA-4779-B8CA-B6B96FFC5CEE}|Default">
+  <MonoDevelop.Ide.ItemProperties.RomanNumeralTestProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RomanNumeralTestProject/RomanNumeralTests.cs">
+    <Files>
+      <File FileName="RomanNumbers/RomanNumbers.cs" Line="26" Column="17" />
+      <File FileName="RomanNumeralTestProject/RomanNumeralTests.cs" Line="58" Column="2" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RomanNumbers" expanded="True">
+            <Node name="RomanNumbers" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="RomanNumeralTestProject" expanded="True">
+              <Node name="Dependencies" expanded="True" selected="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="RomanNumbers" expanded="True">
+            <Node name="RomanNumeralTestProject" expanded="True">
+              <Node name="RomanNumeralTestProject" expanded="True">
+                <Node name="Tests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>RomanNumbersTest/RomanNumbersTest.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
